@@ -1,0 +1,15 @@
+You are tasked with designing a simulation of a car dealership using object-oriented programming
+and inheritance in Java. The simulation should consist of a Car class, a Salesperson class, and a
+Dealership class.
+The Car class should have the following properties: make, model, year, color, price, and mileage. It
+should also have a method for calculating the depreciation of the car based on its age and mileage.
+The Salesperson class should have the following properties: name, age, and a list of cars that they
+have sold. It should also have a method for calculating their commission based on the total sales they
+have made.
+The Dealership class should have the following properties: name, address, and a list of cars that are
+currently in stock. It should also have methods for adding and removing cars from the stock, as well
+as for calculating the total value of the cars in stock.
+In addition to these classes, you should also create a subclass of the Car class for each type of car that
+the dealership sells (e.g. Sedan, SUV, Truck, Mehran, Alto, Corolla, BMW, Cultus, Swift, Vitz, Passo,
+Pino, Picanto, move, Mira). Each subclass should have additional properties and methods specific to
+that type of car.
